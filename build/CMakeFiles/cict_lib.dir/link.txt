@@ -1,2 +1,0 @@
-/usr/bin/ar qc libcict_lib.a CMakeFiles/cict_lib.dir/src/GestorCICT.cc.o
-/usr/bin/ranlib libcict_lib.a

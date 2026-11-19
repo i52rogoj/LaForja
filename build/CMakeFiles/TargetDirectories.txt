@@ -1,4 +1,0 @@
-/home/rperez/Universidad/IS/LaForja/build/CMakeFiles/cict_lib.dir
-/home/rperez/Universidad/IS/LaForja/build/CMakeFiles/sg_cict.dir
-/home/rperez/Universidad/IS/LaForja/build/CMakeFiles/edit_cache.dir
-/home/rperez/Universidad/IS/LaForja/build/CMakeFiles/rebuild_cache.dir

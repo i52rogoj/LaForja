@@ -1,1 +1,0 @@
-/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/sg_cict.dir/link.d CMakeFiles/sg_cict.dir/src/main.cc.o -o sg_cict  libcict_lib.a
